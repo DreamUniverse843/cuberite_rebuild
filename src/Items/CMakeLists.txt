@@ -1,0 +1,60 @@
+target_sources(
+	${CMAKE_PROJECT_NAME} PRIVATE
+
+	ItemHandler.cpp
+
+	ItemArmor.h
+	ItemAxe.h
+	ItemBed.h
+	ItemBigFlower.h
+	ItemBoat.h
+	ItemBottle.h
+	ItemBow.h
+	ItemBucket.h
+	ItemChest.h
+	ItemCloth.h
+	ItemComparator.h
+	ItemCookedFish.h
+	ItemDoor.h
+	ItemDye.h
+	ItemEmptyMap.h
+	ItemEnchantingTable.h
+	ItemEyeOfEnder.h
+	ItemFishingRod.h
+	ItemFood.h
+	ItemFoodSeeds.h
+	ItemGoldenApple.h
+	ItemHandler.h
+	ItemHoe.h
+	ItemItemFrame.h
+	ItemLeaves.h
+	ItemLighter.h
+	ItemLilypad.h
+	ItemMap.h
+	ItemMilk.h
+	ItemMinecart.h
+	ItemMobHead.h
+	ItemNetherWart.h
+	ItemPainting.h
+	ItemPickaxe.h
+	ItemPoisonousPotato.h
+	ItemPotion.h
+	ItemPumpkin.h
+	ItemRawChicken.h
+	ItemRawFish.h
+	ItemRedstoneDust.h
+	ItemRedstoneRepeater.h
+	ItemRottenFlesh.h
+	ItemSapling.h
+	ItemSeeds.h
+	ItemShears.h
+	ItemShovel.h
+	ItemSign.h
+	ItemSlab.h
+	ItemSoup.h
+	ItemSpawnEgg.h
+	ItemSpiderEye.h
+	ItemSword.h
+	ItemThrowable.h
+	SimplePlaceableItemHandler.h
+)
